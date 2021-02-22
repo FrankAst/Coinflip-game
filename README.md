@@ -8,3 +8,6 @@ The functioning of the app works as follow: first the user has to connect their 
 The next step is to place the bet and the first metamask window will appear asking to sign the FIRST transaction with a small fee, this is the call to random.sol which will provide us with the random number. Once that Tx is confirmed, another metamask window will show up asking for permission to send the eth we wanted to put at stake. 
 Once confirmed, a little alert will tell us whether we are winners or loosers. 
 The 2 step transaction might be a bit tedious considering the waiting time, but it adds a bit of extra security just in case the random.sol contract ran into a problem, preventing the user from loosing the full bet.
+
+
+pd: the .secret file contains the private key, as this is just a demo i dont mind sharing it. But this file should never be public. 
