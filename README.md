@@ -10,4 +10,4 @@ Once confirmed, a little alert will tell us whether we are winners or loosers.
 The 2 step transaction might be a bit tedious considering the waiting time, but it adds a bit of extra security just in case the random.sol contract ran into a problem, preventing the user from loosing the full bet.
 
 
-pd: the .secret file contains the private key, as this is just a demo i dont mind sharing it. But this file should never be public. 
+ps: the .secret file contains the private key, as this is just a demo i dont mind sharing it. But this file should never be public. 
